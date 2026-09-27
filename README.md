@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project implements a complete Machine Learning workflow—from raw data ingestion, exploratory data analysis (EDA), and feature engineering, to model training, hyperparameter tuning, and deployment-ready pipeline architecture. 
+This project implements a complete Machine Learning workflow from raw data ingestion, exploratory data analysis (EDA), and feature engineering, to model training, hyperparameter tuning, and deployment-ready pipeline architecture. 
 
 Based on the popular [Kaggle Spaceship Titanic Competition](https://www.kaggle.com/competitions/spaceship-titanic), the objective is to predict the binary target variable `Transported` using personal, itinerary, and spending features of the passengers.
 
