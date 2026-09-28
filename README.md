@@ -51,3 +51,5 @@ The dataset consists of approximately `8,700` training records containing person
 4. **Model Training & Evaluation**:
    - Experimented with multiple classifiers: Logistic Regression, Random Forest, XGBoost, and LightGBM.
    - Performed hyperparameter optimization via Cross-Validation (`GridSearchCV` / `RandomizedSearchCV`).
+
+## Streamlit Live: https://testing-testing1.streamlit.app/
