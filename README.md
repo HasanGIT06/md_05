@@ -49,7 +49,7 @@ The dataset consists of approximately `8,700` training records containing person
    - One-Hot Encoded categorical variables for tree-based and linear models.
 
 4. **Model Training & Evaluation**:
-   - Experimented with multiple classifiers: Logistic Regression, Random Forest, XGBoost, and LightGBM.
+   - Experimented with Random Forest Classifier
    - Performed hyperparameter optimization via Cross-Validation (`GridSearchCV` / `RandomizedSearchCV`).
 
 ## Streamlit Live: https://testing-testing1.streamlit.app/
